@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CVPR 2020 - Detecting Attended Visual Targets in Video
 ![](misc/teaser.gif)
 
@@ -93,3 +94,7 @@ We make use of the PyTorch ConvLSTM implementation provided by https://github.co
 
 ## Contact
 If you have any questions, please email Eunji Chong at eunjichong@gatech.edu.
+=======
+# Video-Attention-Mask
+https://github.com/ejcgt/attention-target-detection
+
