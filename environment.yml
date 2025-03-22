@@ -1,0 +1,42 @@
+name: gazeEnv
+channels:
+  - conda-forge
+  - anaconda
+  - menpo
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.8 
+  - pip
+  - cmake
+  - cython
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - scikit-learn
+  - opencv
+  - pytorch
+  - torchvision
+  - pillow
+  - jupyter
+  - tqdm
+  - seaborn
+  - h5py
+  - pyyaml
+  - requests
+  - pip:
+    - dlib==19.19.0
+    - protobuf==3.7.0
+    - tensorboard
+    - tensorboardx
+    - opencv-python
+    - opencv-contrib-python
+    - imutils
+    - face-recognition
+    - albumentations
+    - efficientnet-pytorch
+    - torchsummary
+    - torchmetrics
+    - torchaudio
+    - torchtext
